@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">E-School
+    </string>
+    <string name="teach_button">Teacher</string>
+    <string name="stud_button">Student</string>
+    <string name="copyright">Copyright 2017 Msoft</string>
+    <string name="connect">Connect</string>
+    <string name="learn">Learn</string>
+    <string name="grow">Grow</string>
+    <string name="choose">Choose University</string>
+    <string name="reg_number">Registration Number</string>
+    <string name="password">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="reg_btn">Register</string>
+    <string name="pass_forget_btn">Forgot Password</string>
+    <string name="logo">Logo</string>
+
+    <string name="login_label">Student-Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+</resources>

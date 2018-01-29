@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dc1370</color>
+    <color name="colorPrimaryDark">#ff1dab</color>
+    <color name="colorAccent">#f0bd5276</color>
+    <color name="background1">#6460aa</color>
+    <color name="background2">#234c50</color>
+    <color name="background3">#781047</color>
+    <color name="button_teacher">#2d9cdb</color>
+    <color name="button_student">#8e3e92</color>
+    <color name="background4">#d6eaea</color>
+    <color name="background5">#2fa69a</color>
+    <color name="background6">#219653</color>
+</resources>
